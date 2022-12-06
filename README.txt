@@ -1,1 +1,1 @@
-https://zubashevskyi.github.io/Invest/
+https://zubashevskyi.github.io/Invest/dist/home.html
